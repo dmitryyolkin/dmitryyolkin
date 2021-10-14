@@ -9,9 +9,9 @@ My main skills and experience are in areas:
 
 Specialties: Software Development, Team/Technical Leadership, Project management, Business analysis, Online Advertising, Machine Learning, Building scalable / high-available systems
 
-Linkedin: https://www.linkedin.com/in/dmitry-yolkin-a2739324/
-HeadHunter: https://samara.hh.ru/resume/ef7ee74fff01e009080039ed1f5a48785a4d6a
-Hackerrank: https://www.hackerrank.com/dmitry_yolkin
+* Linkedin: https://www.linkedin.com/in/dmitry-yolkin-a2739324/
+* HeadHunter: https://samara.hh.ru/resume/ef7ee74fff01e009080039ed1f5a48785a4d6a
+* Hackerrank: https://www.hackerrank.com/dmitry_yolkin
 
 <!--
 **dmitryyolkin/dmitryyolkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
